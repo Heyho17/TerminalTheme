@@ -19,4 +19,5 @@
 #./TermuxTheme.sh                                                      
 # SCREENSHOT [Termux]
 ![Screenshot_2022-12-06-01-02-28-311](https://user-images.githubusercontent.com/117260932/205728251-aae2e588-3478-439a-970e-9e99a85d1daa.png)
+![Screenshot_2022-12-06-01-02-32-802](https://user-images.githubusercontent.com/117260932/205729498-13ba243a-02c0-469e-959e-7745a4841b5d.png)
 
