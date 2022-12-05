@@ -28,10 +28,14 @@ ALAT INI HANYA DIBUAT UNTUK TERMUX SEKARANG DAN HANYA UNTUK
 MEMBUAT WARNA TERMUX MENJADI BENAR-BENAR LUAR BIASA.
 # Kredit
 •Terima kasih kepada Noob-Hacker
+
 •Terima kasih kepada BajeTech
+
 •Terima Kasih Kepada AliByte01
+
 # SUMBANGAN
 •Smartchain (BNB) Alamat Donasi NETWORK BEP20👇
 0x4Bc302A6755ED2B4D2311578d62B59f455E31152
+
 •Solana (SOL) Jaringan Alamat Donasi Solana 👇
 FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP
