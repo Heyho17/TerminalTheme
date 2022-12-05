@@ -15,7 +15,7 @@ git clone https://github.com/Heyho17/TerminalTheme.git
 •./setup                                                                
 •ls                                                      
 •./TerminalTheme.sh                                                    
-• PENGGUNAAN
+# PENGGUNAAN
 
 •./TerminalTheme.sh                                                      
 # SCREENSHOT [Termux]
