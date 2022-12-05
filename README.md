@@ -1,22 +1,22 @@
 # TerminalTheme
 
 # PERSYARATAN ALAT:
-#Termux Dari Fdroid                                               
-#mpv akan menginstal otomatis                                                
-#python3, pip, lolcat, figlet                                                
+•Termux Dari Fdroid                                               
+•mpv akan menginstal otomatis                                                
+•python3, pip, lolcat, figlet                                                
 # INSTALASI PADA [Termux] :
-#pkg update -y                                                               
-#pkg upgrade -y                                                              
-#pkg install git -y                                                          
-#git clone https://github.com/Heyho17/TerminalTheme.git   
-#ls                                                                     
-#cd TerminalTheme                                                                     
-#chmod 777 *                                                             
-#./setup                                                                
-#ls                                                      
-#./TerminalTheme.sh                                                    
-# PENGGUNAAN
-#./TerminalTheme.sh                                                      
+•pkg update -y                                                               
+•pkg upgrade -y                                                              
+•pkg install git -y                                                          
+git clone https://github.com/Heyho17/TerminalTheme.git   
+•ls                                                                     
+•cd TerminalTheme                                                                     
+•chmod 777 *                                                             
+•./setup                                                                
+•ls                                                      
+•./TerminalTheme.sh                                                    
+• PENGGUNAAN
+•./TerminalTheme.sh                                                      
 # SCREENSHOT [Termux]
 ![Screenshot_2022-12-06-01-02-28-311](https://user-images.githubusercontent.com/117260932/205728251-aae2e588-3478-439a-970e-9e99a85d1daa.png)
 ![Screenshot_2022-12-06-01-02-32-802](https://user-images.githubusercontent.com/117260932/205729498-13ba243a-02c0-469e-959e-7745a4841b5d.png)
@@ -25,4 +25,12 @@
 # PERINGATAN!:
 ALAT INI HANYA DIBUAT UNTUK TERMUX SEKARANG DAN HANYA UNTUK
 MEMBUAT WARNA TERMUX MENJADI BENAR-BENAR LUAR BIASA.
-
+# Kredit
+•Terima kasih kepada Noob-Hacker
+•Terima kasih kepada BajeTech
+•Terima Kasih Kepada AliByte01
+# SUMBANGAN
+•Smartchain (BNB) Alamat Donasi NETWORK BEP20👇
+0x4Bc302A6755ED2B4D2311578d62B59f455E31152
+•Solana (SOL) Jaringan Alamat Donasi Solana 👇
+FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP
