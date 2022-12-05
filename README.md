@@ -8,4 +8,4 @@
 #pkg update -y                                                               
 #pkg upgrade -y                                                              
 #pkg install git -y                                                          
-#   
+#git clone https://github.com/Heyho17/TerminalTheme.git   
