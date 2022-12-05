@@ -16,6 +16,7 @@ git clone https://github.com/Heyho17/TerminalTheme.git
 •ls                                                      
 •./TerminalTheme.sh                                                    
 • PENGGUNAAN
+
 •./TerminalTheme.sh                                                      
 # SCREENSHOT [Termux]
 ![Screenshot_2022-12-06-01-02-28-311](https://user-images.githubusercontent.com/117260932/205728251-aae2e588-3478-439a-970e-9e99a85d1daa.png)
